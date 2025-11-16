@@ -41,7 +41,7 @@
 
 ---
 
-## 📂 Sample Projects (You can replace later)
+## 📂 Sample Projects
 - *Student Management System*  
   Java + JDBC + PostgreSQL CRUD operations
 
