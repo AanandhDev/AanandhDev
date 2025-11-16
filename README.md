@@ -1,16 +1,70 @@
-## Hi there 👋
+# Hi 👋 I'm Anandh  
+### Student | Java Full Stack Developer
 
-<!--
-**AanandhDev/AanandhDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍🎓 About Me
+- 🎓 Student developer focusing on full-stack Java development  
+- 💻 Interested in backend, databases, and building real-world applications  
+- 🌱 Currently improving my skills in Java, SQL, JDBC, Spring Boot, HTML & CSS  
+- 🚀 Goal: Become a professional full-stack developer and work on industry-level projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+### 🔹 Backend
+- Java  
+- Spring Boot  
+- Servlet  
+- REST API  
+- JDBC  
+- PostgreSQL  
+- SQL  
+
+### 🔹 Frontend
+- HTML  
+- CSS  
+- JavaScript  
+- React (beginner)
+
+### 🔹 Tools
+- Git  
+- GitHub  
+- Postman  
+- Spring Tool Suite (STS)  
+- NetBeans IDE  
+
+### 🔹 Others
+- OOP  
+- Collections  
+- JDBC  
+- DSA (Data Structures & Algorithms)
+
+---
+
+## 📂 Sample Projects (You can replace later)
+- *Student Management System*  
+  Java + JDBC + PostgreSQL CRUD operations
+
+- *Employee CRUD API*  
+  Spring Boot + REST API + PostgreSQL
+
+- *Simple Portfolio Website*  
+  HTML + CSS + JavaScript
+
+---
+
+## 📘 What I'm Learning Now
+- Java (Core + OOP + Collections)  
+- PostgreSQL & SQL  
+- JDBC  
+- Spring Boot  
+- HTML & CSS  
+
+---
+
+## 📫 Contact Me
+- 📧 Email: *aanandh0825@gmail.com*  
+- 🔗 LinkedIn: your-linkedin-profile  
+- 🖥 Portfolio: Add when created
+
+---
